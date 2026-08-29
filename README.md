@@ -19,4 +19,4 @@ HackerRank and LeetCode.
 * Language: Python
 * Algorithm: Depth-First Search (DFS) and Connected Components
 
-[View Solution](./Journey-to-the-Moon)
+[View Solution](./jorneytothemoon)
