@@ -5,15 +5,15 @@ HackerRank and LeetCode.
 
 ## Problems
 
-### 1. Cut the Tree
+### 2. Cut the Tree
 
 * Platform: HackerRank
 * Language: Python
 * Algorithm: Depth-First Search (DFS)
 
-[View Solution](./Cut-the-Tree)
+[View Solution](./cut-the-tree)
 
-### 2. Journey to the Moon
+### 1. Journey to the Moon
 
 * Platform: HackerRank
 * Language: Python
